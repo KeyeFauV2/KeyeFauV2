@@ -14,7 +14,6 @@
 -  Un langage de programmation en C++ avec ANTLR4 pour simplifier l’usage du C++ et supporter des fonctionnalités avancées (POO, asynchronisme, Interfaces, etc.).
 
 ## Technologies : C++, ANTLR4, GitHub Actions
-## Fonctionnalités : Déclarations de variables avec inférence, classes avec constructeurs/déconstructeurs, instanciation avec new, etc.
 
 ## Mes centres d'intérêt
 -  Développement de nouveaux langages et outils pour simplifier la programmation et développement de systèmes d'exploitation en c/c++.
